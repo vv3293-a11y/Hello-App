@@ -1,10 +1,4 @@
-/**
- * Hello Application
- * Displays Hello World on the console
- * 
- * @author Vansh
- * @version 1.0
- */
+
 
 public class HelloApp1 {
 

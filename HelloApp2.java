@@ -1,9 +1,4 @@
-/**
- * UC4: Display "Hello" with Multiple Command-Line Arguments
- * 
- * @author Vansh
- * @version 1.0
- */
+
 
 public class HelloApp2 {
 
